@@ -1,0 +1,16 @@
+{
+  "name": "deletedir-webpack-plugin",
+  "version": "1.1.4",
+  "description": "A webpack plugin to clean output.path folder for webpack project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["webpack","plugin","del","deletedir"],
+  "author": "zhizhi777",
+  "license": "ISC",
+  "dependencies": {
+    "del": "^4.1.0",
+    "schema-utils": "^3.0.0"
+  }
+}
